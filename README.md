@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kulkarnisuyog7
+- 👋 Hi, I’m @kulkarnisuyog7 Third Year CSE Student
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel and MERN stack
 - 💞️ I’m looking to collaborate on Web Development Projects
